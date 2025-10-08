@@ -1,16 +1,22 @@
-## Hi there 👋
+# Environmental Data Portfolio  
 
-<!--
-**MartinaDAngeli/MartinaDAngeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi chiamo Martina D'Angeli,
+sono una Studentessa di **Scienze Naturali** con un forte interesse per l’analisi dei dati ambientali.  
+Mi appassiona capire come i **dati** possano aiutarci a monitorare e proteggere l’ambiente.  
 
-Here are some ideas to get you started:
+## Cosa sto imparando
+- **Python** per l’analisi dei dati e la visualizzazione
+- **GIS** (Geographic Information Systems) e **telerilevamento**
+- **Machine Learning** applicato a tematiche ambientali
+- **Statistica e Data Visualization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Strumenti e linguaggi
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- QGIS / ArcGIS
+- SQL (base)
+- Excel, Google Sheets
+- Git e GitHub
+
+---
+## Obiettivo
+Unire conoscenze naturalistiche e strumenti di data science per comprendere e comunicare i fenomeni ambientali.
